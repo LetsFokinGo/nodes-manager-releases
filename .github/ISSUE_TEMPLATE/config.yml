@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and discussion / Вопросы и обсуждение
+    url: https://github.com/LetsFokinGo/nodes-manager-releases/discussions
+    about: Ask how to do something / Спросить, как что-то сделать
+  - name: Security problem / Проблема безопасности
+    url: https://github.com/LetsFokinGo/nodes-manager-releases/security/advisories/new
+    about: Report privately, not in public issues / Сообщить закрыто, не в открытых Issues

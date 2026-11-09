@@ -1,0 +1,42 @@
+name: Bug report / Ошибка
+description: Something does not work as expected / Что-то работает не так
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the report! Please do not attach other people's mods — a link to the mod page is enough.
+        Спасибо! Чужие моды не прикладывайте — достаточно ссылки на страницу мода.
+  - type: input
+    id: version
+    attributes:
+      label: App version / Версия программы
+      description: Settings → Advanced → About / Настройки → Дополнительно → О программе
+      placeholder: 1.0.0.0
+    validations:
+      required: true
+  - type: input
+    id: game
+    attributes:
+      label: BeamNG.drive version / Версия игры
+      placeholder: 0.40.3.0
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps / Что нажали
+      placeholder: |
+        1. Open “Mods”
+        2. Click …
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happened and what you expected / Что получилось и что ожидали
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots, logs / Скриншоты, журналы
+      description: Optional / Необязательно
