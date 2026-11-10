@@ -1,0 +1,9 @@
+/* Появление при прокрутке: см. client.js. Без JS ничего не скрывается. */
+.rv-wait{opacity:0}
+.rv-frame{position:absolute;inset:-1px;width:calc(100% + 2px);height:calc(100% + 2px);overflow:visible;pointer-events:none;z-index:2}
+.rv-frame rect{fill:none;stroke:var(--ac);stroke-width:1.2;stroke-dasharray:1 1;filter:drop-shadow(0 0 4px rgba(255,140,40,.45))}
+.rv-frame circle{fill:var(--ac);transform-box:fill-box;transform-origin:center;filter:drop-shadow(0 0 4px rgba(255,140,40,.8))}
+@media (prefers-reduced-motion:reduce){
+  .rv-wait{opacity:1}
+  :where(#features,#cars,#security,#download,#faq,#support,.shell-footer){scroll-behavior:auto}
+}

@@ -1,6 +1,6 @@
 # Nodes Manager Privacy Policy
 
-Author: **LetsFokinGo**. Version of 9 November 2026.
+Author: **Vitaly Fokin (LetsFokinGo)**. Version of 10 November 2026.
 
 ## In brief
 Nodes Manager **does not collect or send data to the author**. There are no user accounts, analytics, telemetry, advertising identifiers or error report submissions. Everything the application knows is stored on your computer.
@@ -27,17 +27,20 @@ These websites see your requests just as when you open them in a browser (your I
 ## What is absent
 There are no accounts or author-operated server, and no transfer of mod lists, profiles, paths or files to third parties. Self-updating installs nothing without your click, and every update is verified using the author's digital signature (Tauri update signature, minisign) before installation: if the signature does not match, installation is cancelled. You can also download a new version manually from the releases page.
 
+## Supporting the project (Boosty)
+Support is voluntary and unlocks nothing in the application: there are no paid features. The payment is accepted and processed by Boosty under its own rules, including refunds; the author does not receive your card details. If you supported the project and agreed to this on the Boosty page, your Boosty nickname and the amount are shown in the list of supporters: in the application ("About → Support") and in the public `supporters.json` file in the project repository. To remove or change your entry, message the author on Boosty or open an Issue.
+
 ## Children and personal data
-The application does not require personal data from anyone, including children. The author does not process users' personal data.
+The application does not require personal data from anyone, including children. Apart from supporters' nicknames and amounts (section above), the author does not process users' personal data.
 
 ## Changes
-If this policy changes, the new version will be in the project repository together with the release. Contact: Issues in the project's public repository.
+If this policy changes, the new version will be in the project repository together with the release. Contact: Issues in the project's public repository or nodesmanager777@gmail.com.
 
 ---
 
 # Политика конфиденциальности Nodes Manager
 
-Автор: **LetsFokinGo**. Редакция от 09.11.2026.
+Автор: **Виталий Фокин (LetsFokinGo)**. Редакция от 10.11.2026.
 
 ## Коротко
 Nodes Manager **не собирает и не отправляет данные автору**. Нет учётных записей, аналитики, телеметрии, рекламных идентификаторов и отправки отчётов об ошибках. Всё, что программа знает, лежит на вашем компьютере.
@@ -64,8 +67,11 @@ Nodes Manager **не собирает и не отправляет данные 
 ## Чего нет
 Нет аккаунтов и сервера автора, нет передачи списка модов, профилей, путей и файлов третьим лицам. Самообновление ничего не ставит без вашего нажатия, а каждое обновление проверяется цифровой подписью автора (подпись обновлений Tauri, minisign) до установки: если подпись не совпала, установка отменяется. Новую версию можно и скачать вручную со страницы релизов.
 
+## Поддержка проекта (Boosty)
+Поддержка добровольная и ничего не открывает в программе: платных функций нет. Платёж принимает и обрабатывает Boosty по своим правилам, в том числе о возвратах; данные вашей карты автор не получает. Если вы поддержали проект и согласились на это на странице Boosty, ваш ник на Boosty и сумма показываются в списке поддержавших: в программе («О программе → Поддержать») и в открытом файле `supporters.json` в репозитории проекта. Чтобы убрать или изменить запись, напишите автору в Boosty или в Issues.
+
 ## Дети и персональные данные
-Программа не требует персональных данных ни от кого, включая детей. Автор персональные данные пользователей не обрабатывает.
+Программа не требует персональных данных ни от кого, включая детей. Кроме ника и суммы поддержавших (раздел выше), автор персональные данные пользователей не обрабатывает.
 
 ## Изменения
-Если политика изменится, новая версия будет в репозитории проекта вместе с релизом. Контакт — Issues публичного репозитория проекта.
+Если политика изменится, новая версия будет в репозитории проекта вместе с релизом. Контакт — Issues публичного репозитория проекта или почта nodesmanager777@gmail.com.

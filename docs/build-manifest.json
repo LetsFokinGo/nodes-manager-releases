@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "index.html",
+    "privacy/index.html",
+    "eula/index.html",
+    "ru/index.html",
+    "ru/privacy/index.html",
+    "ru/eula/index.html",
+    "404.html"
+  ],
+  "sections": [
+    "features",
+    "cars",
+    "security",
+    "download",
+    "closing",
+    "motion",
+    "reveal"
+  ],
+  "assets": [
+    "assets/sections/shell/client.js",
+    "assets/sections/shell/style.css",
+    "assets/sections/features/client.js",
+    "assets/sections/features/style.css",
+    "assets/sections/cars/client.js",
+    "assets/sections/cars/match.js",
+    "assets/sections/cars/query.js",
+    "assets/sections/cars/style.css",
+    "assets/sections/security/client.js",
+    "assets/sections/security/style.css",
+    "assets/sections/download/client.js",
+    "assets/sections/download/release.js",
+    "assets/sections/download/style.css",
+    "assets/sections/closing/client.js",
+    "assets/sections/closing/style.css",
+    "assets/sections/motion/client.js",
+    "assets/sections/motion/physics.js",
+    "assets/sections/motion/style.css",
+    "assets/sections/motion/synth.js",
+    "assets/sections/reveal/client.js",
+    "assets/sections/reveal/style.css"
+  ]
+}

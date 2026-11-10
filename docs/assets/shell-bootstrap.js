@@ -1,0 +1,1 @@
+import {init as shell} from './sections/shell/client.js';import {init as motion} from './sections/motion/client.js';shell();motion();let reveal;const start=()=>{reveal??=import('./sections/reveal/client.js').then(m=>{m.init();document.documentElement.dataset.revealReady='1';});};if(scrollY)start();else addEventListener('scroll',start,{once:true,passive:true});

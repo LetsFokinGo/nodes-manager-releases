@@ -1,0 +1,282 @@
+[
+  {
+    "id": "etk800",
+    "name": "ETK 800-Series",
+    "archive": "content/vehicles/etk800.zip",
+    "source": "vehicles/etk800/854_190d_A.jpg",
+    "config": "854_190d_A",
+    "file": "etk800-640.webp",
+    "width": 640,
+    "height": 360,
+    "titles": {
+      "854_190d_A": {
+        "en": "854 190d (A)",
+        "ru": "Выбранная конфигурация"
+      },
+      "846_ttSport_custom_DCT": {
+        "en": "Knallhart (DCT)",
+        "ru": "Выбранная конфигурация"
+      },
+      "844_150_A": {
+        "en": "844 150 (A)",
+        "ru": "Выбранная конфигурация"
+      }
+    }
+  },
+  {
+    "id": "etki",
+    "name": "ETK I-Series",
+    "archive": "content/vehicles/etki.zip",
+    "source": "vehicles/etki/2400i_M.jpg",
+    "config": "2400i_M",
+    "file": "etki-640.webp",
+    "width": 640,
+    "height": 360,
+    "titles": {
+      "2400i_M": {
+        "en": "2400i (M)",
+        "ru": "Выбранная конфигурация"
+      },
+      "cool": {
+        "en": "Knallhart (M)",
+        "ru": "Выбранная конфигурация"
+      },
+      "2400i_A": {
+        "en": "2400i (A)",
+        "ru": "Выбранная конфигурация"
+      }
+    }
+  },
+  {
+    "id": "covet",
+    "name": "Ibishu Covet",
+    "archive": "content/vehicles/covet.zip",
+    "source": "vehicles/covet/DXi_M.jpg",
+    "config": "DXi_M",
+    "file": "covet-640.webp",
+    "width": 640,
+    "height": 360,
+    "titles": {
+      "DXi_M": {
+        "en": "1.5 DXi (M)",
+        "ru": "Выбранная конфигурация"
+      },
+      "drag": {
+        "en": "Drag (Sequential)",
+        "ru": "Выбранная конфигурация"
+      },
+      "pointless": {
+        "en": "The Pointless (M)",
+        "ru": "Выбранная конфигурация"
+      }
+    }
+  },
+  {
+    "id": "bx",
+    "name": "Ibishu BX-Series",
+    "archive": "content/vehicles/bx.zip",
+    "source": "vehicles/bx/200bx_type_l_M.jpg",
+    "config": "200bx_type_l_M",
+    "file": "bx-640.webp",
+    "width": 640,
+    "height": 360,
+    "titles": {
+      "200bx_type_l_M": {
+        "en": "200BX Type-L (M)",
+        "ru": "Выбранная конфигурация"
+      },
+      "drag_A": {
+        "en": "Drag (A)",
+        "ru": "Выбранная конфигурация"
+      },
+      "track_M": {
+        "en": "Track (M)",
+        "ru": "Выбранная конфигурация"
+      }
+    }
+  },
+  {
+    "id": "sunburst2",
+    "name": "Hirochi Sunburst",
+    "archive": "content/vehicles/sunburst2.zip",
+    "source": "vehicles/sunburst2/sport_RS_wagon_DCT.jpg",
+    "config": "sport_RS_wagon_DCT",
+    "file": "sunburst2-640.webp",
+    "width": 640,
+    "height": 360,
+    "titles": {
+      "sport_RS_wagon_DCT": {
+        "en": "2.5 Sport RS AWD Wagon (DCT)",
+        "ru": "Выбранная конфигурация"
+      },
+      "track_attack": {
+        "en": "Track Attack (Sequential)",
+        "ru": "Выбранная конфигурация"
+      },
+      "trackday_M": {
+        "en": "Trackday (M)",
+        "ru": "Выбранная конфигурация"
+      }
+    }
+  },
+  {
+    "id": "sbr",
+    "name": "Hirochi SBR4",
+    "archive": "content/vehicles/sbr.zip",
+    "source": "vehicles/sbr/TT_AWD_S2_DCT.jpg",
+    "config": "TT_AWD_S2_DCT",
+    "file": "sbr-640.webp",
+    "width": 640,
+    "height": 360,
+    "titles": {
+      "TT_AWD_S2_DCT": {
+        "en": "AWD TT S2 (DCT)",
+        "ru": "Выбранная конфигурация"
+      },
+      "hillclimb": {
+        "en": "Hillclimb - Asphalt (DCT)",
+        "ru": "Выбранная конфигурация"
+      },
+      "track": {
+        "en": "Track (Sequential)",
+        "ru": "Выбранная конфигурация"
+      }
+    }
+  },
+  {
+    "id": "pickup",
+    "name": "Gavril D-Series",
+    "archive": "content/vehicles/pickup.zip",
+    "source": "vehicles/pickup/d15_4wd_A.jpg",
+    "config": "d15_4wd_A",
+    "file": "pickup-640.webp",
+    "width": 640,
+    "height": 360,
+    "titles": {
+      "d15_4wd_A": {
+        "en": "D15 V8 4WD (A)",
+        "ru": "Выбранная конфигурация"
+      },
+      "d25_longbed_dragDiesel_A": {
+        "en": "D25 Diesel Drag (A)",
+        "ru": "Выбранная конфигурация"
+      },
+      "d15_fleet_M_facelift": {
+        "en": "D15 Fleet (M)",
+        "ru": "Выбранная конфигурация"
+      }
+    }
+  },
+  {
+    "id": "moonhawk",
+    "name": "Bruckell Moonhawk",
+    "archive": "content/vehicles/moonhawk.zip",
+    "source": "vehicles/moonhawk/v8a_luxe_alt.jpg",
+    "config": "v8a_luxe_alt",
+    "file": "moonhawk-640.webp",
+    "width": 640,
+    "height": 360,
+    "titles": {
+      "v8a_luxe_alt": {
+        "en": "378 V8 Luxe (A)",
+        "ru": "Выбранная конфигурация"
+      },
+      "drag": {
+        "en": "Drag (A)",
+        "ru": "Выбранная конфигурация"
+      },
+      "terrible": {
+        "en": "The Terrible (M)",
+        "ru": "Выбранная конфигурация"
+      }
+    }
+  },
+  {
+    "id": "barstow",
+    "name": "Gavril Barstow",
+    "archive": "content/vehicles/barstow.zip",
+    "source": "vehicles/barstow/291m_sport.jpg",
+    "config": "291m_sport",
+    "file": "barstow-640.webp",
+    "width": 640,
+    "height": 360,
+    "titles": {
+      "291m_sport": {
+        "en": "291 V8 RoadSport Package (M)",
+        "ru": "Выбранная конфигурация"
+      },
+      "drag": {
+        "en": "Drag (A)",
+        "ru": "Выбранная конфигурация"
+      },
+      "awful": {
+        "en": "The Awful (M)",
+        "ru": "Выбранная конфигурация"
+      }
+    }
+  },
+  {
+    "id": "pigeon",
+    "name": "Ibishu Pigeon",
+    "archive": "content/vehicles/pigeon.zip",
+    "source": "vehicles/pigeon/base.jpg",
+    "config": "base",
+    "file": "pigeon-640.webp",
+    "width": 640,
+    "height": 360,
+    "titles": {
+      "base": {
+        "en": "Base (M)",
+        "ru": "Выбранная конфигурация"
+      },
+      "drag": {
+        "en": "Drag (M)",
+        "ru": "Выбранная конфигурация"
+      }
+    }
+  },
+  {
+    "id": "scintilla",
+    "name": "Civetta Scintilla",
+    "archive": "content/vehicles/scintilla.zip",
+    "source": "vehicles/scintilla/gts.jpg",
+    "config": "gts",
+    "file": "scintilla-640.webp",
+    "width": 640,
+    "height": 360,
+    "titles": {
+      "gts": {
+        "en": "GTs (DCT)",
+        "ru": "Выбранная конфигурация"
+      },
+      "drag": {
+        "en": "Drag (Sequential)",
+        "ru": "Выбранная конфигурация"
+      }
+    }
+  },
+  {
+    "id": "vivace",
+    "name": "Cherrier FCV",
+    "archive": "content/vehicles/vivace.zip",
+    "source": "vehicles/vivace/vivace_S_410q_DCT.jpg",
+    "config": "vivace_S_410q_DCT",
+    "file": "vivace-640.webp",
+    "width": 640,
+    "height": 360,
+    "titles": {
+      "vivace_S_410q_DCT": {
+        "en": "Vivace S 410Q Arsenic (DCT)",
+        "ru": "Выбранная конфигурация"
+      },
+      "hillclimb_SQ": {
+        "en": "Vivace Hillclimb (Sequential)",
+        "ru": "Выбранная конфигурация"
+      },
+      "race_SQ": {
+        "en": "Vivace Race (Sequential)",
+        "ru": "Выбранная конфигурация"
+      }
+    }
+  }
+]

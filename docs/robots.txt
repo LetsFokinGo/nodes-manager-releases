@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://letsfokingo.github.io/nodes-manager-releases/sitemap.xml
